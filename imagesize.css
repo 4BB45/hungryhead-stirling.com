@@ -1,0 +1,9 @@
+.bg {
+  image: url("TEMP1.jpg");
+
+  height: 100%;
+
+  position: center;
+  repeat: no-repeat;
+  size: cover;
+}
